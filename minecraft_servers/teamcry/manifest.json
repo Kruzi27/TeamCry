@@ -2,9 +2,7 @@
     "server_name": "teamcry",
     "nice_name": "TeamCry",
     "direct_ip": "teamcry.de",
-    "server_wildcards": [
-      "%.teamcry.de"
-    ],
+    
     "social": {
       "web": "https://teamcry.de",
       "youtube": "https://www.youtube.com/channel/UCt7wPdnCc6lZOnFIbIkHblA",
@@ -20,7 +18,7 @@
     },
     "discord": {
         "server_id": 1214294252255711232,
-        "rename_to_minecraft_name": true
+        "rename_to_minecraft_name": false
       },
       "yt_trailer": "ReNRf1fGIxo"
 
